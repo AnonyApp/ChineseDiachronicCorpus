@@ -29,9 +29,9 @@ ChineseDiachronicCorpus，中文历时语料库，横跨六十余年，包括腾
 
 | 数据名称 | 时间跨度 | 数据大小 |链接 |
 | :--- | :---: | :---: | :--- |
-| 腾讯新闻 | 2009-2016 | 5GB| 链接:https://pan.baidu.com/s/16VMV1JioSrKGUQ0T7YfIGw  密码:57ux|
-| 人民日报 | 1946-2003 | 3.44GB |  链接:https://pan.baidu.com/s/1vUwt7hpoQLx-vgzsZjaBlw  密码:jyvo|
-| 参考消息 | 1957-2002 | 1.1GB |  链接:https://pan.baidu.com/s/1Ux_WCpkLqtfE60jXfGD3ow  密码:6ekf|
+| 腾讯新闻 | 2009-2016 | 5GB| 申请使用|
+| 人民日报 | 1946-2003 | 3.44GB | 申请使用|
+| 参考消息 | 1957-2002 | 1.1GB | 申请使用|
 
 
 # 关于作者
