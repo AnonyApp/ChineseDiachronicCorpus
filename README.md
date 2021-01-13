@@ -27,11 +27,11 @@ ChineseDiachronicCorpus，中文历时语料库，横跨六十余年，包括腾
 
 对于如何获取数据，下表是对数据集的介绍，需要使用的可以开放下载使用。
 
-| 数据名称 | 时间跨度 | 数据大小  |数据来源 |
-| :--- | :---: | :---: | :--- |
-| 腾讯新闻 | 2009-2016 | 5GB| https://auto.qq.com/l/201104/scrollnews_15.htm |
-| 人民日报 | 1946-2003 | 3.44GB | http://www.laoziliao.net/rmrb/ |
-| 参考消息 | 1957-2002 | 1.1GB | http://www.laoziliao.net/ckxx/ |
+| 数据名称 | 时间跨度 | 数据大小  |数据来源 |数据获取 |
+| :--- | :---: | :---: | :--- |  :---|
+| 腾讯新闻 | 2009-2016 | 5GB| https://auto.qq.com/l/201104/scrollnews_15.htm |申请使用 |
+| 人民日报 | 1946-2003 | 3.44GB | http://www.laoziliao.net/rmrb/ |申请使用  |
+| 参考消息 | 1957-2002 | 1.1GB | http://www.laoziliao.net/ckxx/ |申请使用 |
 
 
 # 关于作者
